@@ -36,4 +36,4 @@ git revert 是撤销某次操作，此次操作之前的commit都会被保留
 git reset 是撤销某次提交，但是此次之后的修改都会被退回到暂存区  
 10、将此次更新文件并入到上次commit的记录中，不新添加commit  
 
-git commit -amend  
+git commit -amend  https://github.com/a280029097/test
